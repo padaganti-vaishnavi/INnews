@@ -28,4 +28,3 @@ You can get the apikey here- https://newsapi.org/
 >>Then, use can successfully use the INnews application
 
 HOPE YOU ENJOYED THE REACT APPLICATION, DO FOLLOW....;)
-@22akash
