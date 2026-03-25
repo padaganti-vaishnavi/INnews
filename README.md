@@ -7,8 +7,11 @@ Hope you have installed the VS Code in your system.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+First INstall ReactJS application using the following command :
 
-In the project directory, you can run:
+### `npx create-react-app my-app`
+
+In the project directory, you can run [make sure you update the App.js , index.html according to the application]:
 
 ### `npm start`
 
